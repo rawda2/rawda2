@@ -19,49 +19,14 @@ I enjoy building scalable web applications, CRM solutions, and AI-powered produc
 
 ## Tech Stack
 
-### Backend
+## Technologies
 
-* C#
-* ASP.NET Core
-* Web API
-* Entity Framework Core
-* LINQ
-* SignalR
-* gRPC
-
-### Frontend
-
-* Angular
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
-* Bootstrap
-
-### Database
-
-* SQL Server
-* Stored Procedures
-* Database Design
-
-### CRM & Power Platform
-
-* Dynamics 365 CE
-* Power Apps
-* Power Automate
-* Dataverse
-* Power BI
-
-### Tools & DevOps
-
-* Git & GitHub
-* Azure DevOps
-* Docker
-* Visual Studio
-* Postman
-
----
-
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver)
+![Dynamics 365](https://img.shields.io/badge/Dynamics_365-0B53CE)
+![Power_Platform](https://img.shields.io/badge/Power_Platform-742774)
 ## Featured Projects
 
 ### CareerK
