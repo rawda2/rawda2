@@ -35,7 +35,7 @@ C#, ASP.NET Core, Entity Framework Core, SQL Server, Angular, TypeScript, JavaSc
 
 AI-powered career ecosystem connecting developers, companies, and clients in a unified platform.
 
-**Technologies:** ASP.NET Core, Angular, SQL Server, AI Integration
+**Technologies:** Node JS, React.js, MongoDB, AI Integration
 
 ### CRM Automation Solutions
 
