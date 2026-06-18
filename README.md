@@ -19,6 +19,8 @@ I enjoy building scalable web applications, CRM solutions, and AI-powered produc
 
 ## Tech Stack
 
+C#, ASP.NET Core, Entity Framework Core, SQL Server, Angular, TypeScript, JavaScript, Dynamics 365 CE, Power Platform, Azure, Docker, Git, GitHub, REST APIs, SignalR, gRPC.
+
 ## Technologies
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
