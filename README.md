@@ -57,35 +57,6 @@ My focus is on the intersection of enterprise software, CRM automation, and AI �
 
 ---
 
-## Featured Projects
-
-### 🚀 CareerK
-> AI-powered career ecosystem connecting developers, companies, and clients in a unified platform.
-
-A full-stack platform built to streamline talent discovery, project collaboration, and client engagement — integrating AI features to match and recommend at scale.
-
-**Stack:** Node.js · React.js · MongoDB · AI Integration
-
----
-
-### ⚙️ CRM Automation Solutions
-> Business process automation built on Dynamics 365 CE and Power Platform.
-
-End-to-end CRM workflows tailored to real business operations — custom entities, Power Automate flows, and model-driven app configurations that reduce manual overhead.
-
-**Stack:** Dynamics 365 CE · Power Automate · Power Apps · Dataverse
-
----
-
-### 🌐 Full Stack Web Applications
-> Responsive, scalable web applications using the .NET and Angular ecosystem.
-
-Production-ready apps with clean architecture patterns, EF Core data layers, REST APIs, and Angular frontends built for real users.
-
-**Stack:** ASP.NET Core · Angular · SQL Server · Entity Framework Core
-
----
-
 ## GitHub Stats
 
 <div align="center">
